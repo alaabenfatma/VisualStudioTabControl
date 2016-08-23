@@ -1,0 +1,15 @@
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\bin\Debug\Tester.exe.config
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\bin\Debug\Tester.exe
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\bin\Debug\Tester.pdb
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\obj\Debug\Tester.Form1.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\obj\Debug\Tester.Properties.Resources.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\obj\Debug\Tester.exe
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\obj\Debug\Tester.pdb
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\bin\Debug\VisualStudioTabControl.dll
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\bin\Debug\VisualStudioTabControl.pdb
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\obj\Debug\Tester.Dark.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\obj\Debug\Tester.Blue.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\obj\Debug\Tester.Light.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\VisualStudioTabControl\Tester\obj\Debug\Tester.msg.resources
